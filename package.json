@@ -1,5 +1,5 @@
 {
-	"name": "panel-action",
+	"name": "directus-extension-panel-action",
 	"description": "A configurable button or link panel for Directus dashboards.",
 	"icon": "extension",
 	"version": "1.0.0-beta.1",
